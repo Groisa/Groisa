@@ -26,6 +26,7 @@ Sou um jovem fascinado com tudo que envolve computação, mas foi na programaç�
 [<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/gabriel.s_rosa/)
 
 
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Groisa"><img src="https://github-readme-stats.vercel.app/api?username=Groisa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Groisa's GitHub stats" /></a>
