@@ -2,7 +2,7 @@
 :vulcan_salute: Me chamo Gabriel. Sou um desenvolvedor FullStack em desenvolvimento, mas por enquanto estou só no front-end. 🧑‍💻
 ------------------------------------------------------------------------------------------------
 
-Sou um jovem fascinado com tudo que envolve computação, mas foi na programação que eu me encontrei, desde de então busco uma vaga na área. Hoje em dia trabalho com desenvolvimento Front-END React Native e React JS
+Sou um jovem fascinado com tudo que envolve computação, mas foi na programação que eu me encontrei. Hoje em dia trabalho com desenvolvimento Front-END React Native e React JS
 * 🌍 Moro na cidade de Congonhas MG
 
 # :coffee: Habilidades
