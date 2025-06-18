@@ -1,5 +1,5 @@
 # Eai joia?
-:vulcan_salute: Me chamo Gabriel. Fron-end e Mobile (React-Native). 🧑‍💻
+:vulcan_salute: Me chamo Gabriel. Sou um FullStack 🧑‍💻
 ------------------------------------------------------------------------------------------------
 
 Sou um jovem fascinado com tudo que envolve computação, mas foi na programação que eu me encontrei. Hoje em dia trabalho com desenvolvimento Front-END React Native e React JS
