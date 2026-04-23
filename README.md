@@ -1,88 +1,130 @@
-# 👋 Gabriel Eduardo
+# ⚡ Gabriel Eduardo Abreu Santa Rosa
 
-💻 Software Engineer | Tech Lead  
-🔥 Especialista em backend, arquitetura e sistemas escaláveis  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=28&center=true&vCenter=true&width=900&lines=Tech+Lead;Backend+Specialist;System+Architect+Mindset;High+Performance+APIs;Scalable+Systems+Builder" />
+</p>
 
----
-
-## 🧠 Sobre mim
-
-Desenvolvedor Full Stack com forte atuação em **backend (.NET e Node.js)**, especializado na construção de **APIs robustas, integrações complexas e sistemas de alta disponibilidade**.
-
-Atualmente atuo como **Tech Lead**, sendo responsável por decisões de arquitetura, definição de boas práticas e evolução contínua de sistemas em produção.
-
-Tenho experiência prática em todo o ciclo de desenvolvimento — da concepção até o deploy — sempre com foco em **performance, escalabilidade e qualidade de código**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Groisa&style=for-the-badge&color=red"/>
+  <a href="https://www.linkedin.com/in/gabrielrosadev/">
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
 ---
 
-## ⚡ O que eu entrego
+## 🚨 WHO I AM
 
-- APIs REST performáticas e bem estruturadas  
-- Arquiteturas escaláveis e orientadas a domínio  
-- Integrações entre sistemas (pagamentos, serviços externos, mensageria)  
-- Liderança técnica e padronização de código  
-- Evolução e manutenção de sistemas críticos em produção  
+Tech Lead e Software Engineer com foco pesado em **backend, arquitetura e sistemas distribuídos**.
 
----
+Não escrevo código apenas para funcionar — escrevo para **escala, manutenção e longevidade**.
 
-## 🛠️ Stack Principal
-
-### Backend
-- .NET / ASP.NET Core  
-- Node.js / NestJS  
-- C#  
-
-### Frontend
-- React  
-- TypeScript  
-- Angular  
-
-### Banco de Dados
-- PostgreSQL  
-- SQL Server  
-- MongoDB  
-
-### Infra & DevOps
-- Docker  
-- AWS  
-- Firebase  
-- CI/CD  
+Atuo diretamente em:
+- decisões críticas de arquitetura  
+- definição de padrões técnicos  
+- evolução de sistemas em produção  
+- resolução de problemas complexos em ambientes reais  
 
 ---
 
-## 🧱 Arquitetura & Práticas
+## ⚔️ WHAT I DO
+
+- 🧠 Projeto e construo **APIs de alta performance**
+- 🧱 Estruturo sistemas com **arquitetura limpa e escalável**
+- 🔗 Integro múltiplos serviços e plataformas (pagamentos, SaaS, automações)
+- 🚀 Levo sistemas do zero até produção com estabilidade
+- 🔥 Tomo decisões técnicas que impactam produto e negócio
+
+---
+
+## 🛠️ CORE STACK
+
+### ⚙️ Backend Dominance
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet)
+![Node](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
+![Nest](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs)
+
+### 🎯 Frontend (when needed)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
+
+### 🗄️ Data Layer
+![Postgres](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/SQLServer-000000?style=for-the-badge&logo=microsoftsqlserver)
+![Mongo](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+
+### ☁️ Infra & Execution
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase)
+
+---
+
+## 🧬 ENGINEERING DNA
 
 - Clean Architecture  
 - Domain-Driven Design (DDD)  
-- SOLID  
-- Microsserviços  
-- Mensageria e processamento assíncrono  
-- Testes automatizados  
+- SOLID principles  
+- Microsservices & modular systems  
+- Async processing / filas / mensageria  
+- Observabilidade e resiliência  
+- Código orientado a longo prazo  
 
 ---
 
-## 🎯 Diferenciais
+## 🧠 MINDSET
 
-✔️ Experiência real como Tech Lead  
-✔️ Visão de produto + negócio  
-✔️ Código limpo, escalável e sustentável  
-✔️ Facilidade em resolver problemas complexos  
-✔️ Forte autonomia técnica  
+> Código sem arquitetura é dívida técnica futura.  
+> Arquitetura sem execução é só teoria.  
+> Eu entrego os dois.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GITHUB METRICS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Groisa&show_icons=true&theme=radical)
-
----
-
-## 🌐 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielrosadev/)
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Groisa&show_icons=true&theme=radical&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Groisa&layout=compact&theme=radical"/>
+</p>
 
 ---
 
-## ⚡ Mentalidade
+## 🔥 CONSISTENCY
 
-Construo sistemas pensando em escala, manutenção e impacto real — não apenas em código.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Groisa&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 ACTIVITY
+
+![Snake animation](https://github.com/AnaProgramando/AnaProgramando/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎯 REALITY CHECK
+
+Não estou aqui para escrever código comum.
+
+Estou aqui para construir sistemas que:
+- escalam  
+- sobrevivem  
+- evoluem  
+
+---
+
+## 📬 CONTACT
+
+📞 (31) 9 9085-1100  
+🔗 https://www.linkedin.com/in/gabrielrosadev/  
+
+---
+
+## ⚡ FINAL NOTE
+
+Se você precisa de alguém que apenas codifique, existem muitos.
+
+Se você precisa de alguém que **pense, construa e sustente sistemas de verdade**,  
+então vale a conversa.
